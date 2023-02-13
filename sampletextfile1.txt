@@ -1,1 +1,1 @@
-makinf changes using local repository
+making changes using local repository
